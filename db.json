@@ -10,7 +10,20 @@
       "RHCameraCalMessage": "Calibrating Cameras: In Process",
       "RHCameraCalScore": 0.40538015961647034,
       "RHCameraLastCal": 19053108
-    }
+    },
+  "diag": {
+      "errors": {
+      "activeFaultMessage": "Right Crosshair Laser Not Connected"
+      },
+      "LFBattery": 0,
+      "LFSignal": 0,
+      "LRBattery": 0,
+      "LRSignal": 0,
+      "RFBattery": 0,
+      "RFSignal": 0,
+      "RRBattery": 71,
+      "RRSignal": 57
+  }
   
   
 }
